@@ -1,0 +1,7 @@
+com.miapp-pngs-0 /data/data/com.termux/files/home/MiApp/app/build/generated/res/pngs/debug
+com.miapp-resValues-1 /data/data/com.termux/files/home/MiApp/app/build/generated/res/resValues/debug
+com.miapp-packageDebugResources-2 /data/data/com.termux/files/home/MiApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.miapp-packageDebugResources-3 /data/data/com.termux/files/home/MiApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.miapp-merged_res-4 /data/data/com.termux/files/home/MiApp/app/build/intermediates/merged_res/debug
+com.miapp-debug-5 /data/data/com.termux/files/home/MiApp/app/src/debug/res
+com.miapp-main-6 /data/data/com.termux/files/home/MiApp/app/src/main/res
